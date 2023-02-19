@@ -1,6 +1,6 @@
-# Jack's Universal Codemap
+<img src="assets/codemaplogo.jpg" alt="logo" width="38" align="left"/> 
 
-
+# &nbsp;Jack's Universal Codemap
 
 A documentation of a syntax to make code much more readable and easier to navigate.
 
