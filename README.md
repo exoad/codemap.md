@@ -1,9 +1,9 @@
 # Jack's Universal Codemap
 
-<img src="assets/java_example.png" alt="Java Example" width="400" align="right" />
-<img src="assets/cxx_example.png" alt="C++ Example" width="400" align="right" />
-<img src="assets/dart_example.png" alt="Dart Example" width="400" align="right" />
-<img src="assets/c_example.png" alt="C Example" width="400" align="right" />
+<img src="assets/java_example.png" alt="Java Example" width="400" align="right" /><br>
+<img src="assets/cxx_example.png" alt="C++ Example" width="400" align="right" /><br>
+<img src="assets/dart_example.png" alt="Dart Example" width="400" align="right" /><br>
+<img src="assets/c_example.png" alt="C Example" width="400" align="right" /><br>
 
 
 A documentation of a syntax to make code much more readable and easier to navigate.
