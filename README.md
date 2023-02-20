@@ -19,10 +19,11 @@ To find the proper styling for individual languages go to their designated folde
  * [Haxe](./haxe/)
  * [C](./c/)
 
-<img src="assets/java_example.png" alt="Java Example" width="300" align="right" />
-<img src="assets/cxx_example.png" alt="C++ Example" width="300" align="right" />
-<img src="assets/dart_example.png" alt="Dart Example" width="300" align="right" />
-<img src="assets/c_example.png" alt="C Example" width="300" align="right" />
+<img src="assets/java_example.png" alt="Java Example" width="270" align="right" />
+<img src="assets/cxx_example.png" alt="C++ Example" width="270" align="right" />
+<img src="assets/dart_example.png" alt="Dart Example" width="270" align="right" />
+<img src="assets/c_example.png" alt="C Example" width="270" align="right" />
+
 
 ## <strong>Why?</strong>
 The main motive behind having a different formatting for my code is that
