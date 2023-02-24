@@ -6,7 +6,7 @@ A documentation of a syntax to make code much more readable and easier to naviga
 
 This documentation includes styling for the following standards:
 1. Java (8+ Compliant)
-2. C/C++ (98 Compliant, 98 Complianet)
+2. C/C++ (98 Compliant, 98 Compliant)
 3. Haxe 
 4. Dart (Optional)
 5. JavaScript
