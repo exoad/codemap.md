@@ -19,6 +19,7 @@ public void hello_world()
 One lining the entire expression makes sure the 
 
 ## Comparison
+A quick comparison
 
 <strong>Oracle Standards</strong>
 
@@ -82,10 +83,15 @@ public class Point
   public static void main(String[] args)
 		throws Exception
   {
-    out.println(new Point(3, 4));
+    out.println(
+      new Point(3, 4)
+    );
   }
 }
 ```
 
-## Footnotes
+## Naming Conventions
+Although it is widely acknowledged that programmer definable structures (e.g. variables, types, etc..) should be left up to the programmer, they should often follow a guideline to avoid ambiguity and verbosity.
+
+### Footnotes
 [^1]: *“Code Conventions for the Java Programming Language.”* Code Conventions for the Java Programming Language: 1. Introduction, 20 Apr. 1999, www.oracle.com/java/technologies/javase/codeconventions-introduction.html.
