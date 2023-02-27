@@ -12,7 +12,8 @@ public void helloWorld() {
 }
 
 // Improved Conventions
-public void hello_world() { System.out.println("Hello World"); }
+public void hello_world()
+{ System.out.println("Hello World"); }
 ```
 
 One lining the entire expression makes sure the 
