@@ -4,17 +4,15 @@
 <img src="assets/c_example.png" alt="C Example" width="430" align="right" />
 A documentation of a syntax to make code much more readable and easier to navigate.
 
-This documentation includes styling for the following standards:
+This documentation includes styling that can apply to these languages:
 1. Java (8+ Compliant)
 2. C/C++ (98 Compliant, 98 Compliant)
 3. Haxe 
 4. Dart (Optional)
 5. JavaScript
 
-To find the proper styling for individual languages go to their designated folders:
+This documentation also features specific languages that have indepth overviews for:
  * [Java](./java/)
- * [C++](./cxx/)
- * [C](./c/)
 
 
 
