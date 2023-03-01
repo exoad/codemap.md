@@ -15,8 +15,6 @@ To find the proper styling for individual languages go to their designated folde
  * [JavaScript](./javascript/)
  * [Java](./java/)
  * [C++](./cxx/)
- * [Dart](./dart/)
- * [Haxe](./haxe/)
  * [C](./c/)
 
 <img src="assets/cxx_example.png" alt="C++ Example" width="270" align="right" />
