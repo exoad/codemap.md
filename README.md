@@ -12,7 +12,6 @@ This documentation includes styling for the following standards:
 5. JavaScript
 
 To find the proper styling for individual languages go to their designated folders:
- * [JavaScript](./javascript/)
  * [Java](./java/)
  * [C++](./cxx/)
  * [C](./c/)
