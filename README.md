@@ -1,7 +1,7 @@
 <img src="assets/codemaplogo.jpg" alt="logo" width="38" align="left"/> 
 
 # &nbsp;Jack's Universal Codemap
-
+<img src="assets/c_example.png" alt="C Example" width="430" align="right" />
 A documentation of a syntax to make code much more readable and easier to navigate.
 
 This documentation includes styling for the following standards:
@@ -17,7 +17,7 @@ To find the proper styling for individual languages go to their designated folde
  * [C++](./cxx/)
  * [C](./c/)
 
-<img src="assets/cxx_example.png" alt="C++ Example" width="270" align="right" />
+
 
 
 ## <strong>Why?</strong>
