@@ -16,7 +16,7 @@ public void hello_world()
 { System.out.println("Hello World"); }
 ```
 
-One lining the entire expression makes sure the 
+**tl;dr** This documentation helps to guide you in a way to write code that isn't obscure, not verbose, and expressive. By hiding things you don't need to know and showing the functionality, this syntax is able to make Java code look much more manageable.
 
 ## Comparison
 A quick comparison
